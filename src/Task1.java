@@ -12,6 +12,6 @@ public class Task1 {
        // while (i <= 100){
        //     System.out.println(i);
        //     i++;
-        }
+       //  }
     }
 }
